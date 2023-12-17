@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.myDiv {
+    border: 5px outset white;
+    background-color: black;
+    text-align: center;
+color: white;
+}
+
+table,tr,td,th {
+    border: 3px solid;
+    margin-top: 30px;
+    width: 100xp;
+}
+
